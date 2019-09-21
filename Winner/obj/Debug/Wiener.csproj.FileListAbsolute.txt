@@ -1,0 +1,10 @@
+C:\Users\taidv\documents\visual studio 2013\Projects\AttackRSA\Winner\bin\Debug\Winner.exe.config
+C:\Users\taidv\documents\visual studio 2013\Projects\AttackRSA\Winner\bin\Debug\Winner.exe
+C:\Users\taidv\documents\visual studio 2013\Projects\AttackRSA\Winner\bin\Debug\Winner.pdb
+C:\Users\taidv\documents\visual studio 2013\Projects\AttackRSA\Winner\obj\Debug\Wiener.csprojResolveAssemblyReference.cache
+C:\Users\taidv\documents\visual studio 2013\Projects\AttackRSA\Winner\obj\Debug\Wiener.WienerMainForm.resources
+C:\Users\taidv\documents\visual studio 2013\Projects\AttackRSA\Winner\obj\Debug\Wiener.Properties.Resources.resources
+C:\Users\taidv\documents\visual studio 2013\Projects\AttackRSA\Winner\obj\Debug\Wiener.csproj.GenerateResource.Cache
+C:\Users\taidv\documents\visual studio 2013\Projects\AttackRSA\Winner\obj\Debug\Winner.exe
+C:\Users\taidv\documents\visual studio 2013\Projects\AttackRSA\Winner\obj\Debug\Winner.pdb
+C:\Users\taidv\Documents\Visual Studio 2013\Projects\AttackRSA\Winner\bin\Debug\Newtonsoft.Json.dll
